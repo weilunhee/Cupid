@@ -85,8 +85,8 @@
                   <div class="row d_flex">
                      <div class="col-md-12">
                         <div class="text-bg">
-                           <span> Love Wedding CoupleGroom Woman</span>
-                           <h1>Landing Page 2019</h1>
+                           <span>邱晓甜与许伟伦</span>
+                           <h1>Start Journey <p class='xiaotian_custom_text'>@9/6/21</p></h1>
                            <a href="#">Read More</a>
                         </div>
                      </div>
@@ -112,12 +112,12 @@
                   <div class="row">
                      <div class="col-md-6 margin_boo">
                         <div class="weare_box ">
-                           <figure><img src="images/weare_img1.png" alt="#"/></figure>
+                           <figure><img src="images/weilun.png" alt="#"/></figure>
                         </div>
                      </div>
                      <div class="col-md-6">
                         <div class="weare_box">
-                           <figure><img src="images/weare_img2.png" alt="#"/></figure>
+                           <figure><img src="images/gugubird.png" alt="#"/></figure>
                         </div>
                      </div>
                   </div>

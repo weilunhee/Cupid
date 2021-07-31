@@ -339,7 +339,7 @@ button {
 
 .text-bg h1 {
      color: #fff;
-     font-size: 75px;
+     font-size: 65px;
      line-height: 90px;
      padding-bottom: 70px;
      font-weight: bold;
@@ -352,7 +352,17 @@ button {
      line-height: 77px;
      font-weight: bold;
      padding-bottom: 20px;
-     display: block;
+     display: inline;
+}
+
+.text-bg .xiaotian_custom_text {
+     font-family: 'Dancing Script', cursive;
+     color: #fff;
+     font-size: 50px;
+     line-height: 77px;
+     font-weight: bold;
+     padding-bottom: 20px;
+     display: inline;
 }
 
 .text-bg p {
