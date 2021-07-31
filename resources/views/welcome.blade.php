@@ -10,7 +10,7 @@
       <meta name="viewport" content="width=device-width, initial-scale=1">
       <meta name="viewport" content="initial-scale=1, maximum-scale=1">
       <!-- site metas -->
-      <title>blessed</title>
+      <title>For my love</title>
       <meta name="keywords" content="">
       <meta name="description" content="">
       <meta name="author" content="">
@@ -30,6 +30,7 @@
       <!--[if lt IE 9]>
       <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script><![endif]-->
+      <link rel="icon" href="images/iconlogo.jpg">
    </head>
    <!-- body -->
    <body class="main-layout">
@@ -125,7 +126,7 @@
                <div class="col-md-12">
                   <div class="weare_box">
                      <p>SIAOTIEN met WEILUN on June 9.
-The first time he met her was on the Internet, and she caught him attention because she took the initiative.
+The first time she met him was on the Internet, and she caught him attention because she took the initiative.
 Over time, they understand each other's background and hobbies, etc. The story is very long, to be continued</p>
                      <a class="read_more" href="#">Read more</a>
                   </div>
@@ -150,7 +151,7 @@ Over time, they understand each other's background and hobbies, etc. The story i
                   <div class="Our_box">
                      <i><img src="images/plan1.png" alt="#"/></i>
                      <h4>SENSE OF RITUAL</h4>
-                     <p>WEILUN Will try to make her live in a sense of ritual every day. And also give her some surprise in the future.</p>
+                     <p>WEILUN will try to make her live in a sense of ritual every day. And also give her some surprise in the future.</p>
                   </div>
                </div>
                <div class="col-md-4">
