@@ -134,13 +134,18 @@
         float: left;
     }
     .text-bg h1 {
-        font-size: 38px;
+        font-size: 25px;
         line-height: 55px;
     }
+    
     .text-bg span {
-        font-size: 35px;
+        font-size: 30px;
         line-height: 44px;
     }
+    .text-bg .xiaotian_custom_text {
+        font-size: 20px;
+        line-height: 44px;
+    } 
     .margin_boo {
         margin-bottom: 30px;
     }

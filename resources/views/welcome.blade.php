@@ -85,7 +85,7 @@
                   <div class="row d_flex">
                      <div class="col-md-12">
                         <div class="text-bg">
-                           <span>邱晓甜与许伟伦</span>
+                           <span>WEILUN and SIAO   TIEN</span>
                            <h1>Start Journey <p class='xiaotian_custom_text'>@9/6/21</p></h1>
                            <a href="#">Read More</a>
                         </div>
@@ -102,8 +102,8 @@
             <div class="row">
                <div class="col-md-12">
                   <div class="titlepage">
-                     <h2>Who We Are</h2>
-                     <span>d to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum gener</span>
+                     <h2>Together Us</h2>
+                     <span>I love you not because of who you are, but because of who I am when I am with you.</span>
                   </div>
                </div>
             </div>
@@ -124,7 +124,9 @@
                </div>
                <div class="col-md-12">
                   <div class="weare_box">
-                     <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat pre</p>
+                     <p>SIAOTIEN met WEILUN on June 9.
+The first time he met her was on the Internet, and she caught him attention because she took the initiative.
+Over time, they understand each other's background and hobbies, etc. The story is very long, to be continued</p>
                      <a class="read_more" href="#">Read more</a>
                   </div>
                </div>
@@ -139,7 +141,7 @@
                <div class="col-md-12">
                   <div class="titlepage">
                      <h2>Our Planning Includes</h2>
-                     <span>We are glad to provide these services for your wedding with perfect planning.</span>
+                     <span>After Covid-19 we are planning to do as below</span>
                   </div>
                </div>
             </div>
@@ -147,22 +149,22 @@
                <div class="col-md-4">
                   <div class="Our_box">
                      <i><img src="images/plan1.png" alt="#"/></i>
-                     <h4>FLOWER DECORATIONS</h4>
-                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod t dolor in reprehenderit in voluptate velit</p>
+                     <h4>SENSE OF RITUAL</h4>
+                     <p>WEILUN Will try to make her live in a sense of ritual every day. And also give her some surprise in the future.</p>
                   </div>
                </div>
                <div class="col-md-4">
                   <div class="Our_box">
                      <i><img src="images/plan2.png" alt="#"/></i>
-                     <h4>BEST RESTAURANT</h4>
-                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod t dolor in reprehenderit in voluptate velit</p>
+                     <h4>GASTRONOME</h4>
+                     <p>Promise will bring her/him to eat all the delicious food. Example: hotpot, fried chicken, milktea, Korea BBQ , sushi.</p>
                   </div>
                </div>
                <div class="col-md-4">
                   <div class="Our_box">
                      <i><img src="images/plan3.png" alt="#"/></i>
-                     <h4>HONEYMOON</h4>
-                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod t dolor in reprehenderit in voluptate velit</p>
+                     <h4>TRAVELLER</h4>
+                     <p>Will take her/him go local travel first until covid-19 gone. After that, will go overseas. Example：Thailand, Taiwan and so on.</p>
                   </div>
                </div>
                <div class="col-md-12">
