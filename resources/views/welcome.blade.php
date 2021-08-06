@@ -220,8 +220,8 @@ Over time, they understand each other's background and hobbies, etc. The story i
             <div class="row">
                <div class="col-md-12">
                   <div class="titlepage">
-                     <h2>Testimonial</h2>
-                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore<br> et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud  </p>
+                     <h2>Comment</h2>
+                     <p>People are independent individuals. <br>Because of your accompany, I am not alone. <br>All the emotions I have will be shared with you. <br> Promise me that we must grow up together.</p>
                   </div>
                </div>
             </div>
@@ -241,19 +241,19 @@ Over time, they understand each other's background and hobbies, etc. The story i
                                     <div  class="col-md-6">
                                        <div class="test_box">
                                           <div class="jons">
-                                             <i><img src="images/jons_img1.png" alt="#"/></i>
-                                             <h4>Jonson Donat</h4>
+                                             <i><img src="images/soomei.png" alt="#"/></i>
+                                             <h4>Soo Mei</h4>
                                           </div>
-                                          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod aliquip ex ea commodo consequat. Duis aute irure dolor in reprehe</p>
+                                          <p>???</p>
                                        </div>
                                     </div>
                                     <div  class="col-md-6">
                                        <div class="test_box">
                                           <div class="jons">
-                                             <i><img src="images/jons_img2.png" alt="#"/></i>
-                                             <h4>Jonson Donat</h4>
+                                             <i><img src="images/cc.png" alt="#"/></i>
+                                             <h4>Chee Ching</h4>
                                           </div>
-                                          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod aliquip ex ea commodo consequat. Duis aute irure dolor in reprehe</p>
+                                          <p>She introduced us to be together because "using a BBQ as a bargaining chip" but MCO has made her so far that she hasn't had BBQ yet.</p>
                                        </div>
                                     </div>
                                  </div>
