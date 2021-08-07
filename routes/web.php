@@ -18,3 +18,5 @@ Route::get('/', function () {
 });
 
 Route::view('readMore1','readMore1');
+
+?>
