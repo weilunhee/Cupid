@@ -88,7 +88,7 @@
                         <div class="text-bg">
                            <span>WEILUN and SIAO   TIEN</span>
                            <h1>Start Journey <p class='xiaotian_custom_text'>@9/6/21</p></h1>
-                           <a href="#">Read More</a>
+                           <a href="{{ url('readMore1') }}">Read More</a>
                         </div>
                      </div>
                   </div>
@@ -181,8 +181,8 @@ Over time, they understand each other's background and hobbies, etc. The story i
             <div class="row">
                <div class="col-md-12">
                   <div class="titlepage">
-                     <h2>Get Registered</h2>
-                     <span>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor</span>
+                     <h2>Express your opinion</h2>
+                     <span>Please fill in your personal information and post your thoughts, which will be sent to them later to let them know what you think of them. Thank you for your message here</span>
                   </div>
                </div>
             </div>
@@ -193,19 +193,16 @@ Over time, they understand each other's background and hobbies, etc. The story i
                   <form class="main_form">
                      <div class="row">
                         <div class="col-md-6 ">
-                           <input class="contactus" placeholder="First Nmae" type="text" name="First Nmae">
-                        </div>
-                        <div class="col-md-6">
-                           <input class="contactus" placeholder="Last Name" type="text" name=" Last Name">
+                           <input class="contactus" placeholder="Full Name" type="text" name="First Nmae">
                         </div>
                         <div class="col-md-6">
                            <input class="contactus" placeholder="Email Address" type="text" name="Email Address">
                         </div>
-                        <div class="col-md-6">
-                           <input class="contactus" placeholder="Date of The Event " type="text" name="Date of The Event ">
+                        <div class="col-md-12 ">
+                           <input class="contactus" placeholder="Comment" type="text" name="Date of The Event ">
                         </div>
                         <div class="col-sm-12">
-                           <button class="register">Register Now</button>
+                           <button class="register">Send To Them Now</button>
                         </div>
                      </div>
                   </form>
@@ -334,8 +331,8 @@ Over time, they understand each other's background and hobbies, etc. The story i
                <div class="row">
                   <div class="col-md-10 offset-md-1">
                      <div class="cont">
-                        <h3> <strong class="multi"> Free Multipurpose</strong><br>
-                           Responsive Landing Page 2019
+                        <h3> <strong class="multi"> For my love</strong><br>
+                           Idea by SIAOTIEN <br> Develop by WEILUN
                         </h3>
                      </div>
                   </div>
@@ -345,7 +342,7 @@ Over time, they understand each other's background and hobbies, etc. The story i
                <div class="container">
                   <div class="row">
                      <div class="col-md-12">
-                        <p>Copyright 2019 All Right Reserved By <a href="https://html.design/"> Free  html Templates</a></p>
+                        <p>Copyright 2021 All Right Reserved By <a href="https://www.facebook.com/ah.tien.714"> WEILUN&SIAOTIEN</a></p>
                      </div>
                   </div>
                </div>
